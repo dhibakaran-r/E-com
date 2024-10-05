@@ -1,0 +1,30 @@
+.event{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 5rem;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 7rem;
+    left: 18rem;
+}
+.event-btn{
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    font-size: large;
+    background-color: rgb(255, 145, 0);
+    color: crimson;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.event-btn:active{
+    transform:scale(0.9);
+
+}
+.text{
+    position: relative;
+    top: 10rem;
+}

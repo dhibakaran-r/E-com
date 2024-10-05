@@ -1,0 +1,466 @@
+[
+    {
+      "id": 1,
+      "name": "Vivo V21",
+      "mrp": 32000,
+      "offerPrice": 28999,
+      "offer": "9% off",
+      "description": "The Vivo V21 features a 44MP OIS Night Selfie system with a high-resolution 64MP rear camera, wrapped in a sleek design.",
+      "modelName": "V21",
+      "specification": {
+        "display": "6.44-inch AMOLED FHD+",
+        "processor": "MediaTek Dimensity 800U",
+        "camera": "64MP + 8MP + 2MP rear, 44MP front",
+        "battery": "4000mAh with 33W fast charging"
+      },
+      "brandName": "Vivo",
+      "emiDetail": "No cost EMI starting from ₹2,417/month"
+    },
+    {
+      "id": 2,
+      "name": "Vivo X60 Pro",
+      "mrp": 49990,
+      "offerPrice": 44990,
+      "offer": "10% off",
+      "description": "Vivo X60 Pro offers a professional-grade photography experience with Gimbal Stabilization 2.0 and a sleek design.",
+      "modelName": "X60 Pro",
+      "specification": {
+        "display": "6.56-inch AMOLED FHD+",
+        "processor": "Qualcomm Snapdragon 870",
+        "camera": "48MP + 13MP + 13MP rear, 32MP front",
+        "battery": "4200mAh with 33W fast charging"
+      },
+      "brandName": "Vivo",
+      "emiDetail": "No cost EMI starting from ₹3,749/month"
+    },
+    {
+      "id": 3,
+      "name": "Vivo Y20G",
+      "mrp": 14990,
+      "offerPrice": 13990,
+      "offer": "6% off",
+      "description": "Vivo Y20G features a MediaTek Helio G80 processor and a massive 5000mAh battery, making it a great performer for gaming.",
+      "modelName": "Y20G",
+      "specification": {
+        "display": "6.51-inch HD+",
+        "processor": "MediaTek Helio G80",
+        "camera": "13MP + 2MP + 2MP rear, 8MP front",
+        "battery": "5000mAh with 18W fast charging"
+      },
+      "brandName": "Vivo",
+      "emiDetail": "No cost EMI starting from ₹1,165/month"
+    },
+    
+        {
+          "id": 4,
+          "name": "Vivo S1 Pro",
+          "mrp": 20990,
+          "offerPrice": 19990,
+          "offer": "5% off",
+          "description": "Elegant design with diamond-shaped camera layout, featuring a 48MP AI Quad Camera.",
+          "modelName": "S1 Pro",
+          "specification": {
+            "display": "6.38-inch FHD+ Super AMOLED",
+            "processor": "Qualcomm Snapdragon 665",
+            "camera": "48MP + 8MP + 2MP + 2MP rear, 32MP front",
+            "battery": "4500mAh with 18W Dual-Engine Fast Charging"
+          },
+          "brandName": "Vivo",
+          "emiDetail": "No cost EMI starting from ₹1,666/month"
+        },
+        {
+          "id": 5,
+          "name": "Vivo Y51 (2020)",
+          "mrp": 17990,
+          "offerPrice": 16990,
+          "offer": "6% off",
+          "description": "Large battery and immersive display for an all-day entertainment experience.",
+          "modelName": "Y51",
+          "specification": {
+            "display": "6.58-inch FHD+",
+            "processor": "Qualcomm Snapdragon 662",
+            "camera": "48MP + 8MP + 2MP rear, 16MP front",
+            "battery": "5000mAh with 18W Fast Charge"
+          },
+          "brandName": "Vivo",
+          "emiDetail": "Available at ₹2,832/month"
+        },
+        {
+          "id": 6,
+          "name": "Vivo V20",
+          "mrp": 27990,
+          "offerPrice": 22990,
+          "offer": "18% off",
+          "description": "Sleek design with AG Matte Glass, 44MP Eye Autofocus Front Camera.",
+          "modelName": "V20",
+          "specification": {
+            "display": "6.44-inch AMOLED FHD+",
+            "processor": "Qualcomm Snapdragon 720G",
+            "camera": "64MP + 8MP + 2MP rear, 44MP front",
+            "battery": "4000mAh with 33W FlashCharge"
+          },
+          "brandName": "Vivo",
+          "emiDetail": "No cost EMI starting from ₹3,832/month"
+        },
+        {
+          "id": 7,
+          "name": "Vivo X50",
+          "mrp": 34990,
+          "offerPrice": 29990,
+          "offer": "14% off",
+          "description": "Photography redefined with Pro Sports Mode and Extreme Night Vision.",
+          "modelName": "X50",
+          "specification": {
+            "display": "6.56-inch FHD+ AMOLED",
+            "processor": "Qualcomm Snapdragon 730",
+            "camera": "48MP + 13MP + 8MP + 5MP rear, 32MP front",
+            "battery": "4200mAh with 33W FlashCharge"
+          },
+          "brandName": "Vivo",
+          "emiDetail": "No cost EMI starting from ₹4,165/month"
+        },
+        {
+          "id": 8,
+          "name": "Vivo Y31",
+          "mrp": 16490,
+          "offerPrice": 15490,
+          "offer": "6% off",
+          "description": "Power-packed performance with 5000mAh battery and Side Fingerprint.",
+          "modelName": "Y31",
+          "specification": {
+            "display": "6.58-inch FHD+",
+            "processor": "Qualcomm Snapdragon 662",
+            "camera": "48MP rear, 16MP front",
+            "battery": "5000mAh with 18W Fast Charge"
+          },
+          "brandName": "Vivo",
+          "emiDetail": "No cost EMI starting from ₹1,290/month"
+        },
+        {
+          "id": 9,
+          "name": "Vivo V17",
+          "mrp": 27990,
+          "offerPrice": 24990,
+          "offer": "11% off",
+          "description": "Features a Super Night Camera for brilliant night photography.",
+          "modelName": "V17",
+          "specification": {
+                "display": "6.44-inch Super AMOLED FHD+",
+                "processor": "Qualcomm Snapdragon 675",
+                "camera": "48MP + 8MP + 2MP + 2MP rear, 32MP front",
+                "battery": "4500mAh with 18W fast charging"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "No cost EMI starting from ₹2,083/month"
+            },
+            {
+              "id": 10,
+              "name": "Vivo Y19",
+              "mrp": 13990,
+              "offerPrice": 12990,
+              "offer": "7% off",
+              "description": "A powerhouse of battery with AI Triple Rear Camera setup.",
+              "modelName": "Y19",
+              "specification": {
+                "display": "6.53-inch FHD+",
+                "processor": "MediaTek Helio P65",
+                "camera": "16MP + 8MP + 2MP rear, 16MP front",
+                "battery": "5000mAh with 18W Dual Engine Fast Charging"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "EMI options available"
+            },
+            {
+              "id": 11,
+              "name": "Vivo Z1x",
+              "mrp": 16990,
+              "offerPrice": 15990,
+              "offer": "6% off",
+              "description": "Designed for the young with in-display fingerprint scanning and powerful performance.",
+              "modelName": "Z1x",
+              "specification": {
+                "display": "6.38-inch Super AMOLED FHD+",
+                "processor": "Qualcomm Snapdragon 712 AIE",
+                "camera": "48MP + 8MP + 2MP rear, 32MP front",
+                "battery": "4500mAh with 22.5W Vivo FlashCharge"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "No cost EMI starting from ₹1,333/month"
+            },
+            {
+              "id": 12,
+              "name": "Vivo Y12s",
+              "mrp": 9990,
+              "offerPrice": 9490,
+              "offer": "5% off",
+              "description": "Big battery life with Side-Mounted Fingerprint Scanner.",
+              "modelName": "Y12s",
+              "specification": {
+                "display": "6.51-inch HD+",
+                "processor": "MediaTek Helio P35",
+                "camera": "13MP + 2MP rear, 8MP front",
+                "battery": "5000mAh"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "Available at ₹1,580/month"
+            },
+            {
+              "id": 13,
+              "name": "Vivo V19",
+              "mrp": 30990,
+              "offerPrice": 27990,
+              "offer": "10% off",
+              "description": "Dual front camera with Super Night Mode for perfect selfies.",
+              "modelName": "V19",
+              "specification": {
+                "display": "6.44-inch LIV Super AMOLED FHD+",
+                "processor": "Qualcomm Snapdragon 712",
+                "camera": "48MP + 8MP + 2MP + 2MP rear, 32MP + 8MP front",
+                "battery": "4500mAh with 33W Vivo FlashCharge 2.0"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "No cost EMI starting from ₹2,332/month"
+            },
+            {
+              "id": 14,
+              "name": "Vivo Y50",
+              "mrp": 17990,
+              "offerPrice": 16990,
+              "offer": "6% off",
+              "description": "Snapdragon 665 and 5000mAh battery for a smooth and long-lasting experience.",
+              "modelName": "Y50",
+              "specification": {
+                "display": "6.53-inch FHD+",
+                "processor": "Qualcomm Snapdragon 665",
+                "camera": "13MP + 8MP + 2MP + 2MP rear, 16MP front",
+                "battery": "5000mAh"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "EMI options available"
+            },
+            {
+              "id": 15,
+              "name": "Vivo S1",
+              "mrp": 18990,
+              "offerPrice": 17990,
+              "offer": "5% off",
+              "description": "First S series phone in India with a triple rear camera and in-display fingerprint sensor.",
+              "modelName": "S1",
+              "specification": {
+                "display": "6.38-inch Super AMOLED FHD+",
+                "processor": "MediaTek Helio P65",
+                "camera": "16MP + 8MP + 2MP rear, 32MP front",
+                "battery": "4500mAh with Dual-Engine Fast Charging"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "No cost EMI starting from ₹1,499/month"
+            },
+            {
+              "id": 16,
+              "name": "Vivo Y91i",
+              "mrp": 7990,
+              "offerPrice": 7490,
+              "offer": "6% off",
+              "description": "Affordable entry-level phone with a large screen and massive battery.",
+              "modelName": "Y91i",
+              "specification": {
+                "display": "6.22-inch HD+",
+                "processor": "MediaTek Helio P22",
+                "camera": "13MP rear, 5MP front",
+                "battery": "4030mAh"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "Available at ₹1,249/month"
+            },
+            {
+              "id": 17,
+              "name": "Vivo X60",
+              "mrp": 39990,
+              "offerPrice": 37990,
+              "offer": "5% off",
+              "description": "Professional photography with ZEISS Co-engineered Imaging System.",
+              "modelName": "X60",
+              "specification": {
+                "display": "6.56-inch AMOLED FHD+",
+                "processor": "Qualcomm Snapdragon 870",
+                "camera": "48MP + 13MP + 13MP rear, 32MP front",
+                "battery": "4300mAh with 33W FlashCharge"
+              },
+              "brandName": "Vivo",
+              "emiDetail": "No cost EMI starting from ₹3,165/month"
+            },
+                {
+                  "id": 18,
+                  "name": "Vivo Y73",
+                  "mrp": 20990,
+                  "offerPrice": 19990,
+                  "offer": "5% off",
+                  "description": "A stylish design with AMOLED display and fast charging support.",
+                  "modelName": "Y73",
+                  "specification": {
+                    "display": "6.44-inch FHD+ AMOLED",
+                    "processor": "MediaTek Helio G95",
+                    "camera": "64MP + 2MP + 2MP rear, 16MP front",
+                    "battery": "4000mAh with 33W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "EMI starting from ₹1,666/month"
+                },
+                {
+                  "id": 19,
+                  "name": "Vivo V21e",
+                  "mrp": 24990,
+                  "offerPrice": 23990,
+                  "offer": "4% off",
+                  "description": "Lightweight design with a 44MP selfie camera and extended RAM technology.",
+                  "modelName": "V21e",
+                  "specification": {
+                    "display": "6.44-inch FHD+ AMOLED",
+                    "processor": "MediaTek Dimensity 700",
+                    "camera": "64MP + 8MP rear, 44MP front",
+                    "battery": "4000mAh with 44W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "No cost EMI starting from ₹2,000/month"
+                },
+                {
+                  "id": 20,
+                  "name": "Vivo X70 Pro",
+                  "mrp": 51990,
+                  "offerPrice": 49990,
+                  "offer": "4% off",
+                  "description": "Professional photography with Gimbal Stabilization and ZEISS optics.",
+                  "modelName": "X70 Pro",
+                  "specification": {
+                    "display": "6.56-inch FHD+ AMOLED",
+                    "processor": "MediaTek Dimensity 1200",
+                    "camera": "50MP + 12MP + 12MP + 8MP rear, 32MP front",
+                    "battery": "4450mAh with 44W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "No cost EMI starting from ₹4,166/month"
+                },
+                {
+                  "id": 21,
+                  "name": "Vivo Y33s",
+                  "mrp": 17990,
+                  "offerPrice": 16990,
+                  "offer": "6% off",
+                  "description": "Big battery and extended RAM for a seamless performance.",
+                  "modelName": "Y33s",
+                  "specification": {
+                    "display": "6.58-inch FHD+ LCD",
+                    "processor": "MediaTek Helio G80",
+                    "camera": "50MP + 2MP rear, 16MP front",
+                    "battery": "5000mAh with 18W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "EMI options available"
+                },
+                {
+                  "id": 22,
+                  "name": "Vivo Z1Pro",
+                  "mrp": 14990,
+                  "offerPrice": 13990,
+                  "offer": "7% off",
+                  "description": "A gaming powerhouse with a punch-hole display and triple camera setup.",
+                  "modelName": "Z1Pro",
+                  "specification": {
+                    "display": "6.53-inch FHD+ LCD",
+                    "processor": "Qualcomm Snapdragon 712",
+                    "camera": "16MP + 8MP + 2MP rear, 32MP front",
+                    "battery": "5000mAh with 18W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "No cost EMI starting from ₹1,233/month"
+                },
+                {
+                  "id": 23,
+                  "name": "Vivo Y20",
+                  "mrp": 12990,
+                  "offerPrice": 11990,
+                  "offer": "8% off",
+                  "description": "An all-rounder with a side-mounted fingerprint scanner and a massive battery.",
+                  "modelName": "Y20",
+                  "specification": {
+                    "display": "6.51-inch HD+ LCD",
+                    "processor": "Qualcomm Snapdragon 460",
+                    "camera": "13MP + 2MP + 2MP rear, 8MP front",
+                    "battery": "5000mAh"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "Available at ₹1,332/month"
+                },
+                {
+                  "id": 24,
+                  "name": "Vivo Y12",
+                  "mrp": 11990,
+                  "offerPrice": 10990,
+                  "offer": "8% off",
+                  "description": "Triple camera setup with a large display for entertainment enthusiasts.",
+                  "modelName": "Y12",
+                  "specification": {
+                    "display": "6.35-inch HD+ LCD",
+                    "processor": "MediaTek Helio P22",
+                    "camera": "13MP + 8MP + 2MP rear, 8MP front",
+                    "battery": "5000mAh"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "EMI starting from ₹1,083/month"
+                },
+                {
+                  "id": 25,
+                  "name": "Vivo V17 Pro",
+                  "mrp": 29990,
+                  "offerPrice": 27990,
+                  "offer": "7% off",
+                  "description": "Dual pop-up selfie camera and quad rear camera for photography enthusiasts.",
+                  "modelName": "V17 Pro",
+                  "specification": {
+                    "display": "6.44-inch FHD+ Super AMOLED",
+                    "processor": "Qualcomm Snapdragon 675",
+                    "camera": "48MP + 8MP + 13MP + 2MP rear, 32MP + 8MP front",
+                    "battery": "4100mAh with 18W fast charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "No cost EMI starting from ₹2,332/month"
+                },
+                {
+                  "id": 26,
+                  "name": "Vivo S1",
+                  "mrp": 18990,
+                  "offerPrice": 17090,
+                  "offer": "10% off",
+                  "description": "Stylish design with a triple rear camera and in-display fingerprint sensor.",
+                  "modelName": "S1",
+                  "specification": {
+                    "display": "6.38-inch Super AMOLED FHD+",
+                    "processor": "MediaTek Helio P65",
+                    "camera": "16MP + 8MP + 2MP rear, 32MP front",
+                    "battery": "4500mAh with Dual-Engine Fast Charging"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "EMI options available"
+                },
+                {
+                  "id": 27,
+                  "name": "Vivo Y91",
+                  "mrp": 10990,
+                  "offerPrice": 9990,
+                  "offer": "9% off",
+                  "description": "Large screen and long-lasting battery for an immersive viewing experience.",
+                  "modelName": "Y91",
+                  "specification": {
+                    "display": "6.22-inch HD+ LCD",
+                    "processor": "MediaTek Helio P22",
+                    "camera": "13MP + 2MP rear, 8MP front",
+                    "battery": "4030mAh"
+                  },
+                  "brandName": "Vivo",
+                  "emiDetail": "Available at ₹1,249/month"
+                }
+              ]
+              
+            
+        
+  
